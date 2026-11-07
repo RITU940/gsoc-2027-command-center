@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-11-08",
+  "notes": "Historical 2026 GSoC leads only. None is confirmed for GSoC 2027. Verify org/project policies before contributing.",
+  "organizations": [
+    {"id":"numfocus-grass","name":"NumFOCUS / GRASS GIS","track":"Geospatial / Python","repo":"OSGeo/grass","fit":5,"setup":"medium-heavy","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations/numfocus","guide":"https://github.com/numfocus/gsoc","why":"Raster processing, satellite imagery, scientific Python; begin with isolated tests or Python code."},
+    {"id":"processing","name":"Processing Foundation / p5.js","track":"JavaScript / Creative Coding","repo":"processing/p5.js","fit":5,"setup":"light","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations","guide":"https://github.com/processing/Processing-Foundation-GSoC","why":"Accessible JS tests and frontend; strong entry point on 8 GB Windows laptop."},
+    {"id":"numfocus-deepforest","name":"NumFOCUS / DeepForest","track":"Computer Vision / Remote Sensing","repo":"weecology/DeepForest","fit":5,"setup":"medium-heavy","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations/numfocus","guide":"https://github.com/numfocus/gsoc","why":"Direct match for visual recognition and geospatial imagery; select tests, utilities and CPU-safe changes."},
+    {"id":"openvino","name":"OpenVINO Toolkit","track":"Computer Vision / Model Inference","repo":"openvinotoolkit/openvino","fit":5,"setup":"heavy","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations","guide":"https://github.com/openvinotoolkit/openvino/blob/master/CONTRIBUTING.md","why":"CV/ML plus efficiency. Avoid full native builds unless remote compute is available."},
+    {"id":"psf-mne","name":"Python Software Foundation / MNE-Python","track":"Signal Processing / Python","repo":"mne-tools/mne-python","fit":4,"setup":"medium","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations","guide":"https://mne.tools/stable/development/contributing.html","why":"Scientific Python and signal processing; practical unit tests and API improvements."},
+    {"id":"gnuradio","name":"GNU Radio","track":"DSP / C++ / Python","repo":"gnuradio/gnuradio","fit":4,"setup":"heavy","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations","guide":"https://www.gnuradio.org/gsoc/","why":"ETCE alignment. Scope Python tests before complex C++ DSP or Qt work."},
+    {"id":"sympy","name":"SymPy","track":"Algorithms / Python","repo":"sympy/sympy","fit":4,"setup":"light","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations","guide":"https://github.com/sympy/sympy/wiki/Introduction-to-contributing","why":"Mostly CPU-friendly; strong practice for algorithms and rigorous tests."},
+    {"id":"ml4sci","name":"Machine Learning for Science (ML4SCI)","track":"ML Research / Scientific AI","repo":null,"fit":4,"setup":"variable-heavy","gsoc_2026":"https://summerofcode.withgoogle.com/programs/2026/organizations/machine-learning-for-science-ml4sci","guide":"https://ml4sci.org/","why":"Research fit, but each project has different prerequisites and repos. Manually identify target idea and evaluation task."},
+    {"id":"52north","name":"52°North","track":"GIS / Web / Earth Observation","repo":null,"fit":4,"setup":"variable","gsoc_2026":"https://52north.org/news/gsoc-2026-comes-to-a-close/","guide":"https://52north.org/","why":"Geospatial web and standards. Specific 2027 repository not established yet."}
+  ],
+  "search_labels": ["good first issue", "help wanted"],
+  "per_query": 25,
+  "max_queries": 18,
+  "pause_seconds": 2
+}
