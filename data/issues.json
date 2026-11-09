@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-11-07T20:47:24+00:00",
+  "generated_at": "2026-11-09T10:12:49+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
   "errors": [],
   "issues": [
+    {
+      "repo": "OSGeo/grass",
+      "number": 2512,
+      "title": "r.proj: Add unit tests",
+      "url": "https://github.com/OSGeo/grass/issues/2512",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "CI",
+        "Python"
+      ],
+      "updated_at": "2026-11-09T04:33:10Z",
+      "comments": 7,
+      "assignees": [],
+      "score": 100
+    },
     {
       "repo": "gnuradio/gnuradio",
       "number": 5672,
@@ -242,6 +258,37 @@
       "score": 90
     },
     {
+      "repo": "gnuradio/gnuradio",
+      "number": 4554,
+      "title": "No GRC blocks or examples for gr-wavelet",
+      "url": "https://github.com/gnuradio/gnuradio/issues/4554",
+      "labels": [
+        "Bug",
+        "Low",
+        "good first issue",
+        "wavelet"
+      ],
+      "updated_at": "2026-11-08T05:12:12Z",
+      "comments": 5,
+      "assignees": [],
+      "score": 90
+    },
+    {
+      "repo": "gnuradio/gnuradio",
+      "number": 6441,
+      "title": "Detect when modtool needs pygccxml and doesn't have it",
+      "url": "https://github.com/gnuradio/gnuradio/issues/6441",
+      "labels": [
+        "Feature Request",
+        "good first issue",
+        "modtool"
+      ],
+      "updated_at": "2026-11-08T02:54:36Z",
+      "comments": 6,
+      "assignees": [],
+      "score": 90
+    },
+    {
       "repo": "sympy/sympy",
       "number": 23161,
       "title": "misc nits",
@@ -285,22 +332,6 @@
       ],
       "updated_at": "2026-05-08T01:54:50Z",
       "comments": 5,
-      "assignees": [],
-      "score": 86
-    },
-    {
-      "repo": "OSGeo/grass",
-      "number": 2512,
-      "title": "r.proj: Add unit tests",
-      "url": "https://github.com/OSGeo/grass/issues/2512",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "CI",
-        "Python"
-      ],
-      "updated_at": "2026-01-31T12:49:25Z",
-      "comments": 6,
       "assignees": [],
       "score": 86
     },
@@ -393,8 +424,8 @@
       "labels": [
         "good first issue"
       ],
-      "updated_at": "2026-11-03T03:35:36Z",
-      "comments": 6,
+      "updated_at": "2026-11-09T02:43:56Z",
+      "comments": 7,
       "assignees": [
         "yahia317"
       ],
@@ -489,21 +520,6 @@
       ],
       "updated_at": "2024-06-01T14:53:31Z",
       "comments": 7,
-      "assignees": [],
-      "score": 81
-    },
-    {
-      "repo": "gnuradio/gnuradio",
-      "number": 6441,
-      "title": "Detect when modtool needs pygccxml and doesn't have it",
-      "url": "https://github.com/gnuradio/gnuradio/issues/6441",
-      "labels": [
-        "Feature Request",
-        "good first issue",
-        "modtool"
-      ],
-      "updated_at": "2026-05-18T21:35:11Z",
-      "comments": 5,
       "assignees": [],
       "score": 81
     },
@@ -842,22 +858,6 @@
       ],
       "updated_at": "2025-03-09T15:36:10Z",
       "comments": 7,
-      "assignees": [],
-      "score": 74
-    },
-    {
-      "repo": "gnuradio/gnuradio",
-      "number": 4554,
-      "title": "No GRC blocks or examples for gr-wavelet",
-      "url": "https://github.com/gnuradio/gnuradio/issues/4554",
-      "labels": [
-        "Bug",
-        "Low",
-        "good first issue",
-        "wavelet"
-      ],
-      "updated_at": "2025-03-09T15:30:41Z",
-      "comments": 4,
       "assignees": [],
       "score": 74
     },
