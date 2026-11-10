@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:12:49+00:00",
+  "generated_at": "2026-11-10T10:18:22+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -16,8 +16,8 @@
         "CI",
         "Python"
       ],
-      "updated_at": "2026-11-09T04:33:10Z",
-      "comments": 7,
+      "updated_at": "2026-11-09T23:16:29Z",
+      "comments": 9,
       "assignees": [],
       "score": 100
     },
@@ -243,22 +243,6 @@
     },
     {
       "repo": "gnuradio/gnuradio",
-      "number": 1668,
-      "title": "Add convenience wrapper for firdes_window to GRC",
-      "url": "https://github.com/gnuradio/gnuradio/issues/1668",
-      "labels": [
-        "Feature Request",
-        "GRC",
-        "good first issue",
-        "filter"
-      ],
-      "updated_at": "2026-10-09T16:58:25Z",
-      "comments": 5,
-      "assignees": [],
-      "score": 90
-    },
-    {
-      "repo": "gnuradio/gnuradio",
       "number": 4554,
       "title": "No GRC blocks or examples for gr-wavelet",
       "url": "https://github.com/gnuradio/gnuradio/issues/4554",
@@ -302,6 +286,23 @@
       "score": 90
     },
     {
+      "repo": "openvinotoolkit/openvino",
+      "number": 39337,
+      "title": "[Bug]: [CPU][aarch64] i32 eltwise operations silently lose precision above 2^24",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/39337",
+      "labels": [
+        "bug",
+        "good first issue",
+        "support_request"
+      ],
+      "updated_at": "2026-11-10T10:10:25Z",
+      "comments": 2,
+      "assignees": [
+        "PrashantTakale369"
+      ],
+      "score": 88
+    },
+    {
       "repo": "processing/p5.js",
       "number": 8387,
       "title": "[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES",
@@ -331,6 +332,22 @@
         "C"
       ],
       "updated_at": "2026-05-08T01:54:50Z",
+      "comments": 5,
+      "assignees": [],
+      "score": 86
+    },
+    {
+      "repo": "gnuradio/gnuradio",
+      "number": 1668,
+      "title": "Add convenience wrapper for firdes_window to GRC",
+      "url": "https://github.com/gnuradio/gnuradio/issues/1668",
+      "labels": [
+        "Feature Request",
+        "GRC",
+        "good first issue",
+        "filter"
+      ],
+      "updated_at": "2026-10-09T16:58:25Z",
       "comments": 5,
       "assignees": [],
       "score": 86
@@ -1111,22 +1128,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 23069,
-      "title": "[Good First Issue]: Possible Conditional Compilation Optimization for type_to_fuse_map",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23069",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-13T14:14:25Z",
-      "comments": 27,
-      "assignees": [
-        "Nishant-ZFYII"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 24996,
       "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
       "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
@@ -1232,8 +1233,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-10-17T15:46:34Z",
-      "comments": 13,
+      "updated_at": "2026-11-09T21:29:31Z",
+      "comments": 14,
       "assignees": [
         "Ahmed-Zahran02"
       ],
