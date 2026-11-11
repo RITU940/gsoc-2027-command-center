@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:18:22+00:00",
+  "generated_at": "2026-11-11T09:47:53+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -48,8 +48,8 @@
         "Good First Issue",
         "p5.js 2.0+"
       ],
-      "updated_at": "2026-11-04T12:11:48Z",
-      "comments": 6,
+      "updated_at": "2026-11-10T11:45:52Z",
+      "comments": 7,
       "assignees": [],
       "score": 100
     },
@@ -295,7 +295,7 @@
         "good first issue",
         "support_request"
       ],
-      "updated_at": "2026-11-10T10:10:25Z",
+      "updated_at": "2026-11-11T07:26:37Z",
       "comments": 2,
       "assignees": [
         "PrashantTakale369"
@@ -441,8 +441,8 @@
       "labels": [
         "good first issue"
       ],
-      "updated_at": "2026-11-09T02:43:56Z",
-      "comments": 7,
+      "updated_at": "2026-11-11T07:37:12Z",
+      "comments": 10,
       "assignees": [
         "yahia317"
       ],
@@ -1128,6 +1128,22 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
+      "number": 23069,
+      "title": "[Good First Issue]: Possible Conditional Compilation Optimization for type_to_fuse_map",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23069",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-13T14:14:25Z",
+      "comments": 27,
+      "assignees": [
+        "Nishant-ZFYII"
+      ],
+      "score": 72
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
       "number": 24996,
       "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
       "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
@@ -1201,8 +1217,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-03T05:51:22Z",
-      "comments": 65,
+      "updated_at": "2026-11-10T16:58:50Z",
+      "comments": 67,
       "assignees": [
         "kkm121"
       ],
@@ -1217,8 +1233,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-10-24T13:37:38Z",
-      "comments": 40,
+      "updated_at": "2026-11-10T16:58:13Z",
+      "comments": 42,
       "assignees": [
         "ktk-07"
       ],
@@ -1283,16 +1299,10 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-10-29T05:01:40Z",
-      "comments": 30,
+      "updated_at": "2026-11-10T19:59:29Z",
+      "comments": 32,
       "assignees": [
-        "AwkJay",
-        "aadya940",
-        "saquibjawedbit",
-        "nsg365",
-        "devesh-047",
-        "ArmaanBawa",
-        "vaidik-gupta"
+        "PrashantTakale369"
       ],
       "score": 72
     },
@@ -1631,24 +1641,6 @@
         "bw4sz"
       ],
       "score": 63
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 24241,
-      "title": "[Good First Issue]: Support LOG_LEVEL property in GPU plugin",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/24241",
-      "labels": [
-        "good first issue",
-        "category: GPU",
-        "Stale",
-        "no_stale"
-      ],
-      "updated_at": "2026-11-04T00:24:11Z",
-      "comments": 21,
-      "assignees": [
-        "Sujanian1304"
-      ],
-      "score": 62
     },
     {
       "repo": "processing/p5.js",
