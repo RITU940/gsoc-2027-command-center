@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:47:53+00:00",
+  "generated_at": "2026-11-12T10:10:53+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -22,6 +22,21 @@
       "score": 100
     },
     {
+      "repo": "processing/p5.js",
+      "number": 9316,
+      "title": "[p5.js 2.0+ Bug Report]: createRadio().disable(false) does not re-enable radio inputs",
+      "url": "https://github.com/processing/p5.js/issues/9316",
+      "labels": [
+        "Area:DOM",
+        "Good First Issue",
+        "p5.js 2.0+"
+      ],
+      "updated_at": "2026-11-11T20:39:34Z",
+      "comments": 8,
+      "assignees": [],
+      "score": 100
+    },
+    {
       "repo": "gnuradio/gnuradio",
       "number": 5672,
       "title": "Add option to display grid in GRC canvas",
@@ -36,22 +51,7 @@
       "updated_at": "2026-10-11T10:19:45Z",
       "comments": 4,
       "assignees": [],
-      "score": 100
-    },
-    {
-      "repo": "processing/p5.js",
-      "number": 9316,
-      "title": "[p5.js 2.0+ Bug Report]: createRadio().disable(false) does not re-enable radio inputs",
-      "url": "https://github.com/processing/p5.js/issues/9316",
-      "labels": [
-        "Area:DOM",
-        "Good First Issue",
-        "p5.js 2.0+"
-      ],
-      "updated_at": "2026-11-10T11:45:52Z",
-      "comments": 7,
-      "assignees": [],
-      "score": 100
+      "score": 97
     },
     {
       "repo": "weecology/DeepForest",
@@ -82,6 +82,19 @@
     },
     {
       "repo": "weecology/DeepForest",
+      "number": 937,
+      "title": "Implement suggestions from huggingface",
+      "url": "https://github.com/weecology/DeepForest/issues/937",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-11-11T19:03:42Z",
+      "comments": 4,
+      "assignees": [],
+      "score": 97
+    },
+    {
+      "repo": "weecology/DeepForest",
       "number": 1274,
       "title": "PadIfNeeded augmentation is poorly named. It crops as well as pads.",
       "url": "https://github.com/weecology/DeepForest/issues/1274",
@@ -101,24 +114,10 @@
       "labels": [
         "Help Wanted"
       ],
-      "updated_at": "2026-10-19T10:57:59Z",
-      "comments": 6,
+      "updated_at": "2026-11-11T19:13:25Z",
+      "comments": 8,
       "assignees": [],
       "score": 95
-    },
-    {
-      "repo": "gnuradio/gnuradio",
-      "number": 5207,
-      "title": "modtool: allow modtool to operate from the build directory",
-      "url": "https://github.com/gnuradio/gnuradio/issues/5207",
-      "labels": [
-        "Feature Request",
-        "good first issue"
-      ],
-      "updated_at": "2026-10-11T10:51:32Z",
-      "comments": 2,
-      "assignees": [],
-      "score": 94
     },
     {
       "repo": "gnuradio/gnuradio",
@@ -259,6 +258,20 @@
     },
     {
       "repo": "gnuradio/gnuradio",
+      "number": 5207,
+      "title": "modtool: allow modtool to operate from the build directory",
+      "url": "https://github.com/gnuradio/gnuradio/issues/5207",
+      "labels": [
+        "Feature Request",
+        "good first issue"
+      ],
+      "updated_at": "2026-10-11T10:51:32Z",
+      "comments": 2,
+      "assignees": [],
+      "score": 90
+    },
+    {
+      "repo": "gnuradio/gnuradio",
       "number": 6441,
       "title": "Detect when modtool needs pygccxml and doesn't have it",
       "url": "https://github.com/gnuradio/gnuradio/issues/6441",
@@ -295,7 +308,7 @@
         "good first issue",
         "support_request"
       ],
-      "updated_at": "2026-11-11T07:26:37Z",
+      "updated_at": "2026-11-11T11:27:47Z",
       "comments": 2,
       "assignees": [
         "PrashantTakale369"
@@ -318,6 +331,23 @@
       "assignees": [
         "skyyash"
       ],
+      "score": 88
+    },
+    {
+      "repo": "processing/p5.js",
+      "number": 8884,
+      "title": "[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals",
+      "url": "https://github.com/processing/p5.js/issues/8884",
+      "labels": [
+        "Help Wanted",
+        "Area:WebGL",
+        "p5.js 2.0+",
+        "p5.strands",
+        "Area:WebGPU"
+      ],
+      "updated_at": "2026-11-11T11:05:51Z",
+      "comments": 17,
+      "assignees": [],
       "score": 88
     },
     {
@@ -421,34 +451,6 @@
       "score": 85
     },
     {
-      "repo": "weecology/DeepForest",
-      "number": 937,
-      "title": "Implement suggestions from huggingface",
-      "url": "https://github.com/weecology/DeepForest/issues/937",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2025-03-23T10:33:05Z",
-      "comments": 3,
-      "assignees": [],
-      "score": 85
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 39327,
-      "title": "[Bug]: [CPU] CompiledModel::release_memory() keeps the Loop DynamicBuffer, the oneDNN scratchpad and StridedSlice index buffers sized by an earlier large input",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/39327",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2026-11-11T07:37:12Z",
-      "comments": 10,
-      "assignees": [
-        "yahia317"
-      ],
-      "score": 84
-    },
-    {
       "repo": "openvinotoolkit/openvino",
       "number": 39339,
       "title": "[Bug]: [CPU] GatedDeltaNet: infer() after CompiledModel::release_memory() with unchanged input shapes fails with \"Memory has not been allocated\"",
@@ -475,23 +477,6 @@
       ],
       "updated_at": "2026-09-24T17:39:02Z",
       "comments": 27,
-      "assignees": [],
-      "score": 84
-    },
-    {
-      "repo": "processing/p5.js",
-      "number": 8884,
-      "title": "[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals",
-      "url": "https://github.com/processing/p5.js/issues/8884",
-      "labels": [
-        "Help Wanted",
-        "Area:WebGL",
-        "p5.js 2.0+",
-        "p5.strands",
-        "Area:WebGPU"
-      ],
-      "updated_at": "2026-09-27T19:50:20Z",
-      "comments": 16,
       "assignees": [],
       "score": 84
     },
@@ -832,6 +817,39 @@
       "score": 77
     },
     {
+      "repo": "openvinotoolkit/openvino",
+      "number": 23552,
+      "title": "[Good First Issue]: [OP CONFORMANCE][TEMPLATE] 2 Loop test are failed in op conformance",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23552",
+      "labels": [
+        "good first issue",
+        "conformance",
+        "Stale",
+        "no_stale"
+      ],
+      "updated_at": "2026-11-12T00:25:13Z",
+      "comments": 13,
+      "assignees": [
+        "uvv-01"
+      ],
+      "score": 77
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 39327,
+      "title": "[Bug]: [CPU] CompiledModel::release_memory() keeps the Loop DynamicBuffer, the oneDNN scratchpad and StridedSlice index buffers sized by an earlier large input",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/39327",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-11-11T21:43:53Z",
+      "comments": 11,
+      "assignees": [
+        "yahia317"
+      ],
+      "score": 77
+    },
+    {
       "repo": "processing/p5.js",
       "number": 8847,
       "title": "[p5.js 2.0+ Question]: Stroke Scaling is Different in p5 WebGL and WebGPU",
@@ -1123,22 +1141,6 @@
       "comments": 18,
       "assignees": [
         "corepacket"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 23069,
-      "title": "[Good First Issue]: Possible Conditional Compilation Optimization for type_to_fuse_map",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23069",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-13T14:14:25Z",
-      "comments": 27,
-      "assignees": [
-        "Nishant-ZFYII"
       ],
       "score": 72
     },
