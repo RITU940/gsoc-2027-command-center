@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:10:53+00:00",
+  "generated_at": "2026-11-13T09:54:40+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -88,8 +88,8 @@
       "labels": [
         "good first issue"
       ],
-      "updated_at": "2026-11-11T19:03:42Z",
-      "comments": 4,
+      "updated_at": "2026-11-12T15:04:15Z",
+      "comments": 5,
       "assignees": [],
       "score": 97
     },
@@ -107,6 +107,21 @@
       "score": 97
     },
     {
+      "repo": "OSGeo/grass",
+      "number": 1522,
+      "title": "[Bug] Fix currently ignored Flake8 warnings",
+      "url": "https://github.com/OSGeo/grass/issues/1522",
+      "labels": [
+        "bug",
+        "good first issue",
+        "Python"
+      ],
+      "updated_at": "2026-11-12T20:59:00Z",
+      "comments": 24,
+      "assignees": [],
+      "score": 95
+    },
+    {
       "repo": "processing/p5.js",
       "number": 9296,
       "title": "[p5.js 2.0+ Bug Report]: key docs needs updating",
@@ -114,8 +129,8 @@
       "labels": [
         "Help Wanted"
       ],
-      "updated_at": "2026-11-11T19:13:25Z",
-      "comments": 8,
+      "updated_at": "2026-11-12T19:39:37Z",
+      "comments": 9,
       "assignees": [],
       "score": 95
     },
@@ -224,21 +239,6 @@
       "comments": 3,
       "assignees": [],
       "score": 92
-    },
-    {
-      "repo": "OSGeo/grass",
-      "number": 1522,
-      "title": "[Bug] Fix currently ignored Flake8 warnings",
-      "url": "https://github.com/OSGeo/grass/issues/1522",
-      "labels": [
-        "bug",
-        "good first issue",
-        "Python"
-      ],
-      "updated_at": "2026-09-06T10:46:09Z",
-      "comments": 21,
-      "assignees": [],
-      "score": 91
     },
     {
       "repo": "gnuradio/gnuradio",
@@ -1113,23 +1113,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 23001,
-      "title": "[Feature Request]: Add clamp functionality to input.preprocess",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23001",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "feature"
-      ],
-      "updated_at": "2026-10-17T14:21:27Z",
-      "comments": 32,
-      "assignees": [
-        "newbhumika"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 23004,
       "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
       "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
@@ -1207,6 +1190,22 @@
       "comments": 31,
       "assignees": [
         "akibjawad"
+      ],
+      "score": 72
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 29685,
+      "title": "[Good First Issue]: Support aten::_sparse_mm",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29685",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-11-13T04:24:19Z",
+      "comments": 14,
+      "assignees": [
+        "skx56"
       ],
       "score": 72
     },
@@ -1625,22 +1624,6 @@
       "comments": 5,
       "assignees": [
         "Ayaan005-sudo"
-      ],
-      "score": 63
-    },
-    {
-      "repo": "weecology/DeepForest",
-      "number": 429,
-      "title": "main.evaluate does not work with batch_size > 1 and images of different lengths.",
-      "url": "https://github.com/weecology/DeepForest/issues/429",
-      "labels": [
-        "bug",
-        "good first issue"
-      ],
-      "updated_at": "2024-03-18T19:06:14Z",
-      "comments": 6,
-      "assignees": [
-        "bw4sz"
       ],
       "score": 63
     },
