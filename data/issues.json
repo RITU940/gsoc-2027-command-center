@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:54:40+00:00",
+  "generated_at": "2026-11-16T10:06:26+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -55,53 +55,13 @@
     },
     {
       "repo": "weecology/DeepForest",
-      "number": 404,
-      "title": "Profile the predict_tile method.",
-      "url": "https://github.com/weecology/DeepForest/issues/404",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2026-10-13T11:11:21Z",
-      "comments": 9,
-      "assignees": [],
-      "score": 97
-    },
-    {
-      "repo": "weecology/DeepForest",
-      "number": 797,
-      "title": "main.deepforest.predict_file should be able to take in a dataframe, not just a csv file. ",
-      "url": "https://github.com/weecology/DeepForest/issues/797",
-      "labels": [
-        "good first issue",
-        "API"
-      ],
-      "updated_at": "2026-10-14T19:54:48Z",
-      "comments": 7,
-      "assignees": [],
-      "score": 97
-    },
-    {
-      "repo": "weecology/DeepForest",
       "number": 937,
       "title": "Implement suggestions from huggingface",
       "url": "https://github.com/weecology/DeepForest/issues/937",
       "labels": [
         "good first issue"
       ],
-      "updated_at": "2026-11-12T15:04:15Z",
-      "comments": 5,
-      "assignees": [],
-      "score": 97
-    },
-    {
-      "repo": "weecology/DeepForest",
-      "number": 1274,
-      "title": "PadIfNeeded augmentation is poorly named. It crops as well as pads.",
-      "url": "https://github.com/weecology/DeepForest/issues/1274",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2026-10-14T09:17:19Z",
+      "updated_at": "2026-11-13T16:06:07Z",
       "comments": 6,
       "assignees": [],
       "score": 97
@@ -116,8 +76,8 @@
         "good first issue",
         "Python"
       ],
-      "updated_at": "2026-11-12T20:59:00Z",
-      "comments": 24,
+      "updated_at": "2026-11-13T19:26:07Z",
+      "comments": 27,
       "assignees": [],
       "score": 95
     },
@@ -129,7 +89,7 @@
       "labels": [
         "Help Wanted"
       ],
-      "updated_at": "2026-11-12T19:39:37Z",
+      "updated_at": "2026-11-13T11:20:46Z",
       "comments": 9,
       "assignees": [],
       "score": 95
@@ -154,23 +114,6 @@
     },
     {
       "repo": "OSGeo/grass",
-      "number": 1505,
-      "title": "[Feat] Option to sort points with r.out.xyz",
-      "url": "https://github.com/OSGeo/grass/issues/1505",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "raster",
-        "Python",
-        "C"
-      ],
-      "updated_at": "2026-08-17T02:57:12Z",
-      "comments": 4,
-      "assignees": [],
-      "score": 93
-    },
-    {
-      "repo": "OSGeo/grass",
       "number": 3252,
       "title": "[Bug] r.import with e flag behaves unexpected, when no reprojection required",
       "url": "https://github.com/OSGeo/grass/issues/3252",
@@ -181,6 +124,33 @@
       ],
       "updated_at": "2026-06-11T10:28:44Z",
       "comments": 4,
+      "assignees": [],
+      "score": 93
+    },
+    {
+      "repo": "weecology/DeepForest",
+      "number": 404,
+      "title": "Profile the predict_tile method.",
+      "url": "https://github.com/weecology/DeepForest/issues/404",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-10-13T11:11:21Z",
+      "comments": 9,
+      "assignees": [],
+      "score": 93
+    },
+    {
+      "repo": "weecology/DeepForest",
+      "number": 797,
+      "title": "main.deepforest.predict_file should be able to take in a dataframe, not just a csv file. ",
+      "url": "https://github.com/weecology/DeepForest/issues/797",
+      "labels": [
+        "good first issue",
+        "API"
+      ],
+      "updated_at": "2026-10-14T19:54:48Z",
+      "comments": 7,
       "assignees": [],
       "score": 93
     },
@@ -207,6 +177,19 @@
       ],
       "updated_at": "2026-07-29T18:00:59Z",
       "comments": 5,
+      "assignees": [],
+      "score": 93
+    },
+    {
+      "repo": "weecology/DeepForest",
+      "number": 1274,
+      "title": "PadIfNeeded augmentation is poorly named. It crops as well as pads.",
+      "url": "https://github.com/weecology/DeepForest/issues/1274",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-10-14T09:17:19Z",
+      "comments": 6,
       "assignees": [],
       "score": 93
     },
@@ -299,38 +282,20 @@
       "score": 90
     },
     {
-      "repo": "openvinotoolkit/openvino",
-      "number": 39337,
-      "title": "[Bug]: [CPU][aarch64] i32 eltwise operations silently lose precision above 2^24",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/39337",
+      "repo": "OSGeo/grass",
+      "number": 1505,
+      "title": "[Feat] Option to sort points with r.out.xyz",
+      "url": "https://github.com/OSGeo/grass/issues/1505",
       "labels": [
-        "bug",
+        "enhancement",
         "good first issue",
-        "support_request"
+        "raster",
+        "Python",
+        "C"
       ],
-      "updated_at": "2026-11-11T11:27:47Z",
-      "comments": 2,
-      "assignees": [
-        "PrashantTakale369"
-      ],
-      "score": 88
-    },
-    {
-      "repo": "processing/p5.js",
-      "number": 8387,
-      "title": "[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES",
-      "url": "https://github.com/processing/p5.js/issues/8387",
-      "labels": [
-        "Help Wanted",
-        "Area:WebGL",
-        "Good First Issue",
-        "p5.js 2.0+"
-      ],
-      "updated_at": "2026-10-14T09:56:16Z",
-      "comments": 19,
-      "assignees": [
-        "skyyash"
-      ],
+      "updated_at": "2026-08-17T02:57:12Z",
+      "comments": 4,
+      "assignees": [],
       "score": 88
     },
     {
@@ -345,8 +310,8 @@
         "p5.strands",
         "Area:WebGPU"
       ],
-      "updated_at": "2026-11-11T11:05:51Z",
-      "comments": 17,
+      "updated_at": "2026-11-14T17:05:54Z",
+      "comments": 19,
       "assignees": [],
       "score": 88
     },
@@ -452,6 +417,23 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
+      "number": 39337,
+      "title": "[Bug]: [CPU][aarch64] i32 eltwise operations silently lose precision above 2^24",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/39337",
+      "labels": [
+        "bug",
+        "good first issue",
+        "support_request"
+      ],
+      "updated_at": "2026-11-14T18:31:45Z",
+      "comments": 4,
+      "assignees": [
+        "PrashantTakale369"
+      ],
+      "score": 84
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
       "number": 39339,
       "title": "[Bug]: [CPU] GatedDeltaNet: infer() after CompiledModel::release_memory() with unchanged input shapes fails with \"Memory has not been allocated\"",
       "url": "https://github.com/openvinotoolkit/openvino/issues/39339",
@@ -482,6 +464,24 @@
     },
     {
       "repo": "processing/p5.js",
+      "number": 8387,
+      "title": "[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES",
+      "url": "https://github.com/processing/p5.js/issues/8387",
+      "labels": [
+        "Help Wanted",
+        "Area:WebGL",
+        "Good First Issue",
+        "p5.js 2.0+"
+      ],
+      "updated_at": "2026-10-14T09:56:16Z",
+      "comments": 19,
+      "assignees": [
+        "skyyash"
+      ],
+      "score": 84
+    },
+    {
+      "repo": "processing/p5.js",
       "number": 8214,
       "title": "[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`",
       "url": "https://github.com/processing/p5.js/issues/8214",
@@ -491,8 +491,8 @@
         "Help Wanted",
         "p5.js 2.0+"
       ],
-      "updated_at": "2026-10-23T10:41:10Z",
-      "comments": 14,
+      "updated_at": "2026-11-14T16:20:44Z",
+      "comments": 15,
       "assignees": [],
       "score": 83
     },
@@ -1028,23 +1028,6 @@
       "score": 74
     },
     {
-      "repo": "processing/p5.js",
-      "number": 8843,
-      "title": "[p5.js 2.0+ Bug Report]: Color String Representation Is Incorrect",
-      "url": "https://github.com/processing/p5.js/issues/8843",
-      "labels": [
-        "Area:Color",
-        "Help Wanted",
-        "p5.js 2.0+"
-      ],
-      "updated_at": "2026-08-14T12:45:52Z",
-      "comments": 8,
-      "assignees": [
-        "noqokhxnh"
-      ],
-      "score": 73
-    },
-    {
       "repo": "OSGeo/grass",
       "number": 2185,
       "title": "[Bug] Some temporal tests can sometimes take more than 4 mins",
@@ -1218,8 +1201,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-10T16:58:50Z",
-      "comments": 67,
+      "updated_at": "2026-11-15T19:36:33Z",
+      "comments": 69,
       "assignees": [
         "kkm121"
       ],
@@ -1433,6 +1416,23 @@
       "comments": 0,
       "assignees": [],
       "score": 71
+    },
+    {
+      "repo": "processing/p5.js",
+      "number": 8843,
+      "title": "[p5.js 2.0+ Bug Report]: Color String Representation Is Incorrect",
+      "url": "https://github.com/processing/p5.js/issues/8843",
+      "labels": [
+        "Area:Color",
+        "Help Wanted",
+        "p5.js 2.0+"
+      ],
+      "updated_at": "2026-08-14T12:45:52Z",
+      "comments": 8,
+      "assignees": [
+        "noqokhxnh"
+      ],
+      "score": 68
     },
     {
       "repo": "weecology/DeepForest",
