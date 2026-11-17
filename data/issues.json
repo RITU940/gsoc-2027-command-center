@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:06:26+00:00",
+  "generated_at": "2026-11-17T11:02:52+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -18,6 +18,22 @@
       ],
       "updated_at": "2026-11-09T23:16:29Z",
       "comments": 9,
+      "assignees": [],
+      "score": 100
+    },
+    {
+      "repo": "processing/p5.js",
+      "number": 7820,
+      "title": "[p5.js 2.0 Bug Report]: width/height/options overloads inconsistent/incorrect for typography methods",
+      "url": "https://github.com/processing/p5.js/issues/7820",
+      "labels": [
+        "Documentation",
+        "Area:Typography",
+        "Help Wanted",
+        "p5.js 2.0+"
+      ],
+      "updated_at": "2026-11-16T20:27:52Z",
+      "comments": 7,
       "assignees": [],
       "score": 100
     },
@@ -929,21 +945,6 @@
     },
     {
       "repo": "processing/p5.js",
-      "number": 7737,
-      "title": "Support for Top-Level Global Mode",
-      "url": "https://github.com/processing/p5.js/issues/7737",
-      "labels": [
-        "Feature Request",
-        "Area:Core",
-        "Help Wanted"
-      ],
-      "updated_at": "2026-06-01T14:08:38Z",
-      "comments": 35,
-      "assignees": [],
-      "score": 74
-    },
-    {
-      "repo": "processing/p5.js",
       "number": 8097,
       "title": "new getCamera function for V1 & V2",
       "url": "https://github.com/processing/p5.js/issues/8097",
@@ -1283,10 +1284,10 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-10T19:59:29Z",
-      "comments": 32,
+      "updated_at": "2026-11-17T07:32:41Z",
+      "comments": 34,
       "assignees": [
-        "PrashantTakale369"
+        "andersendsa"
       ],
       "score": 72
     },
