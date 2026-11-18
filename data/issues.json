@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:02:52+00:00",
+  "generated_at": "2026-11-18T10:38:44+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -30,10 +30,11 @@
         "Documentation",
         "Area:Typography",
         "Help Wanted",
-        "p5.js 2.0+"
+        "p5.js 2.0+",
+        "Patch"
       ],
-      "updated_at": "2026-11-16T20:27:52Z",
-      "comments": 7,
+      "updated_at": "2026-11-17T15:19:56Z",
+      "comments": 9,
       "assignees": [],
       "score": 100
     },
@@ -1062,23 +1063,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 18347,
-      "title": "Extend Python API with a new `model.reshape()` overload",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/18347",
-      "labels": [
-        "good first issue",
-        "category: Python API",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:29:55Z",
-      "comments": 65,
-      "assignees": [
-        "Jarvis2001"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 22001,
       "title": "[Good First Issue]: Extend C API interface",
       "url": "https://github.com/openvinotoolkit/openvino/issues/22001",
@@ -1092,38 +1076,6 @@
       "assignees": [
         "praasz",
         "Hmm-1224"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 23004,
-      "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:30Z",
-      "comments": 18,
-      "assignees": [
-        "corepacket"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 24996,
-      "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:29:57Z",
-      "comments": 17,
-      "assignees": [
-        "vsd2027"
       ],
       "score": 72
     },
@@ -1158,22 +1110,6 @@
       "comments": 37,
       "assignees": [
         "Advait2912"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 29630,
-      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:31Z",
-      "comments": 31,
-      "assignees": [
-        "akibjawad"
       ],
       "score": 72
     },
@@ -1284,8 +1220,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-17T07:32:41Z",
-      "comments": 34,
+      "updated_at": "2026-11-17T13:19:44Z",
+      "comments": 35,
       "assignees": [
         "andersendsa"
       ],
@@ -1417,6 +1353,71 @@
       "comments": 0,
       "assignees": [],
       "score": 71
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 18347,
+      "title": "Extend Python API with a new `model.reshape()` overload",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/18347",
+      "labels": [
+        "good first issue",
+        "category: Python API",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:29:55Z",
+      "comments": 65,
+      "assignees": [
+        "Jarvis2001"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 23004,
+      "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:21:30Z",
+      "comments": 18,
+      "assignees": [
+        "corepacket"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 24996,
+      "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:29:57Z",
+      "comments": 17,
+      "assignees": [
+        "vsd2027"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 29630,
+      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:21:31Z",
+      "comments": 31,
+      "assignees": [
+        "akibjawad"
+      ],
+      "score": 68
     },
     {
       "repo": "processing/p5.js",
