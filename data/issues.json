@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:38:44+00:00",
+  "generated_at": "2026-11-19T10:42:34+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -1081,6 +1081,24 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
+      "number": 23245,
+      "title": "[Good First Issue][TF FE]: Support complex tensors for Slice operations",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23245",
+      "labels": [
+        "good first issue",
+        "category: TF FE",
+        "Stale",
+        "no_stale"
+      ],
+      "updated_at": "2026-11-19T00:24:59Z",
+      "comments": 22,
+      "assignees": [
+        "daehyun99"
+      ],
+      "score": 72
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
       "number": 28707,
       "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
       "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
@@ -1368,22 +1386,6 @@
       "comments": 65,
       "assignees": [
         "Jarvis2001"
-      ],
-      "score": 68
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 23004,
-      "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:30Z",
-      "comments": 18,
-      "assignees": [
-        "corepacket"
       ],
       "score": 68
     },
