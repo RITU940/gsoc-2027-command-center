@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:42:34+00:00",
+  "generated_at": "2026-11-20T10:23:26+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -835,24 +835,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 23552,
-      "title": "[Good First Issue]: [OP CONFORMANCE][TEMPLATE] 2 Loop test are failed in op conformance",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23552",
-      "labels": [
-        "good first issue",
-        "conformance",
-        "Stale",
-        "no_stale"
-      ],
-      "updated_at": "2026-11-12T00:25:13Z",
-      "comments": 13,
-      "assignees": [
-        "uvv-01"
-      ],
-      "score": 77
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 39327,
       "title": "[Bug]: [CPU] CompiledModel::release_memory() keeps the Loop DynamicBuffer, the oneDNN scratchpad and StridedSlice index buffers sized by an earlier large input",
       "url": "https://github.com/openvinotoolkit/openvino/issues/39327",
@@ -1386,6 +1368,22 @@
       "comments": 65,
       "assignees": [
         "Jarvis2001"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 23004,
+      "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:21:30Z",
+      "comments": 18,
+      "assignees": [
+        "corepacket"
       ],
       "score": 68
     },
