@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:23:26+00:00",
+  "generated_at": "2026-11-23T11:08:28+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -84,6 +84,19 @@
       "score": 97
     },
     {
+      "repo": "weecology/DeepForest",
+      "number": 1274,
+      "title": "PadIfNeeded augmentation is poorly named. It crops as well as pads.",
+      "url": "https://github.com/weecology/DeepForest/issues/1274",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-11-20T14:08:17Z",
+      "comments": 7,
+      "assignees": [],
+      "score": 97
+    },
+    {
       "repo": "OSGeo/grass",
       "number": 1522,
       "title": "[Bug] Fix currently ignored Flake8 warnings",
@@ -110,24 +123,6 @@
       "comments": 9,
       "assignees": [],
       "score": 95
-    },
-    {
-      "repo": "gnuradio/gnuradio",
-      "number": 7026,
-      "title": "GRC: Blocks overlap on HiDPI screens ",
-      "url": "https://github.com/gnuradio/gnuradio/issues/7026",
-      "labels": [
-        "Low",
-        "GRC",
-        "help wanted",
-        "good first issue",
-        "investigation",
-        "GRC-Qt"
-      ],
-      "updated_at": "2026-10-21T19:31:02Z",
-      "comments": 13,
-      "assignees": [],
-      "score": 94
     },
     {
       "repo": "OSGeo/grass",
@@ -194,19 +189,6 @@
       ],
       "updated_at": "2026-07-29T18:00:59Z",
       "comments": 5,
-      "assignees": [],
-      "score": 93
-    },
-    {
-      "repo": "weecology/DeepForest",
-      "number": 1274,
-      "title": "PadIfNeeded augmentation is poorly named. It crops as well as pads.",
-      "url": "https://github.com/weecology/DeepForest/issues/1274",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2026-10-14T09:17:19Z",
-      "comments": 6,
       "assignees": [],
       "score": 93
     },
@@ -286,6 +268,24 @@
       "score": 90
     },
     {
+      "repo": "gnuradio/gnuradio",
+      "number": 7026,
+      "title": "GRC: Blocks overlap on HiDPI screens ",
+      "url": "https://github.com/gnuradio/gnuradio/issues/7026",
+      "labels": [
+        "Low",
+        "GRC",
+        "help wanted",
+        "good first issue",
+        "investigation",
+        "GRC-Qt"
+      ],
+      "updated_at": "2026-10-21T19:31:02Z",
+      "comments": 13,
+      "assignees": [],
+      "score": 90
+    },
+    {
       "repo": "sympy/sympy",
       "number": 23161,
       "title": "misc nits",
@@ -361,22 +361,6 @@
       ],
       "updated_at": "2026-10-09T16:58:25Z",
       "comments": 5,
-      "assignees": [],
-      "score": 86
-    },
-    {
-      "repo": "gnuradio/gnuradio",
-      "number": 7697,
-      "title": "tcp_source has no QA",
-      "url": "https://github.com/gnuradio/gnuradio/issues/7697",
-      "labels": [
-        "good first issue",
-        "Python",
-        "QA",
-        "network"
-      ],
-      "updated_at": "2026-08-21T19:22:09Z",
-      "comments": 10,
       "assignees": [],
       "score": 86
     },
@@ -465,6 +449,23 @@
       "score": 84
     },
     {
+      "repo": "openvinotoolkit/openvino",
+      "number": 39878,
+      "title": "[Bug]: [CPU] common+snippets transformations produce value mismatch in a PullReshape-GroupedStridedSlice graph",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/39878",
+      "labels": [
+        "bug",
+        "good first issue",
+        "support_request"
+      ],
+      "updated_at": "2026-11-20T14:57:44Z",
+      "comments": 4,
+      "assignees": [
+        "v-Golubev"
+      ],
+      "score": 84
+    },
+    {
       "repo": "processing/p5.js",
       "number": 7486,
       "title": "[p5.js 2.0 Beta Bug Report]: Some google fonts don't load",
@@ -539,6 +540,22 @@
       ],
       "updated_at": "2024-06-01T14:53:31Z",
       "comments": 7,
+      "assignees": [],
+      "score": 81
+    },
+    {
+      "repo": "gnuradio/gnuradio",
+      "number": 7697,
+      "title": "tcp_source has no QA",
+      "url": "https://github.com/gnuradio/gnuradio/issues/7697",
+      "labels": [
+        "good first issue",
+        "Python",
+        "QA",
+        "network"
+      ],
+      "updated_at": "2026-08-21T19:22:09Z",
+      "comments": 10,
       "assignees": [],
       "score": 81
     },
@@ -830,6 +847,24 @@
       "comments": 17,
       "assignees": [
         "GitMilind26"
+      ],
+      "score": 77
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 23556,
+      "title": "[Good First Issue]: [OP CONFORMANCE][TEMPLATE] Add test in op conformance fails",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23556",
+      "labels": [
+        "good first issue",
+        "conformance",
+        "Stale",
+        "no_stale"
+      ],
+      "updated_at": "2026-11-21T00:24:04Z",
+      "comments": 22,
+      "assignees": [
+        "Udayscode"
       ],
       "score": 77
     },
@@ -1138,8 +1173,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-15T19:36:33Z",
-      "comments": 69,
+      "updated_at": "2026-11-22T19:35:40Z",
+      "comments": 71,
       "assignees": [
         "kkm121"
       ],
@@ -1373,22 +1408,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 23004,
-      "title": "[Good First Issue]: Implement PostProcess \"mean/scale\" operators method",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23004",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:30Z",
-      "comments": 18,
-      "assignees": [
-        "corepacket"
-      ],
-      "score": 68
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 24996,
       "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
       "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
@@ -1400,22 +1419,6 @@
       "comments": 17,
       "assignees": [
         "vsd2027"
-      ],
-      "score": 68
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 29630,
-      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:31Z",
-      "comments": 31,
-      "assignees": [
-        "akibjawad"
       ],
       "score": 68
     },
