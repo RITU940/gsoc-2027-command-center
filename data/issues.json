@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:08:28+00:00",
+  "generated_at": "2026-11-24T12:52:54+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -458,7 +458,7 @@
         "good first issue",
         "support_request"
       ],
-      "updated_at": "2026-11-20T14:57:44Z",
+      "updated_at": "2026-11-24T11:16:27Z",
       "comments": 4,
       "assignees": [
         "v-Golubev"
