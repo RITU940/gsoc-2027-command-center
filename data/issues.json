@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:52:54+00:00",
+  "generated_at": "2026-11-25T11:39:20+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -95,21 +95,6 @@
       "comments": 7,
       "assignees": [],
       "score": 97
-    },
-    {
-      "repo": "OSGeo/grass",
-      "number": 1522,
-      "title": "[Bug] Fix currently ignored Flake8 warnings",
-      "url": "https://github.com/OSGeo/grass/issues/1522",
-      "labels": [
-        "bug",
-        "good first issue",
-        "Python"
-      ],
-      "updated_at": "2026-11-13T19:26:07Z",
-      "comments": 27,
-      "assignees": [],
-      "score": 95
     },
     {
       "repo": "processing/p5.js",
@@ -458,10 +443,11 @@
         "good first issue",
         "support_request"
       ],
-      "updated_at": "2026-11-24T11:16:27Z",
-      "comments": 4,
+      "updated_at": "2026-11-25T05:06:15Z",
+      "comments": 5,
       "assignees": [
-        "v-Golubev"
+        "v-Golubev",
+        "ADITYASINGH1206"
       ],
       "score": 84
     },
@@ -509,8 +495,8 @@
         "Help Wanted",
         "p5.js 2.0+"
       ],
-      "updated_at": "2026-11-14T16:20:44Z",
-      "comments": 15,
+      "updated_at": "2026-11-25T08:24:53Z",
+      "comments": 16,
       "assignees": [],
       "score": 83
     },
@@ -672,21 +658,6 @@
       "score": 79
     },
     {
-      "repo": "openvinotoolkit/openvino",
-      "number": 39325,
-      "title": "[Performance]: CPU Slice/StridedSlice with a dynamic input rebuilds its executor on every inference; a 1-D slice stores 16 bytes of indices per output element",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/39325",
-      "labels": [
-        "good first issue"
-      ],
-      "updated_at": "2026-11-03T03:35:21Z",
-      "comments": 5,
-      "assignees": [
-        "muntasir-396"
-      ],
-      "score": 79
-    },
-    {
       "repo": "processing/p5.js",
       "number": 6152,
       "title": "noiseMode(SIMPLEX) add-on library",
@@ -815,23 +786,6 @@
       "comments": 2,
       "assignees": [],
       "score": 78
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 20872,
-      "title": "[Bug]: inconsistent inference results between OpenVINO and ONNX",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/20872",
-      "labels": [
-        "bug",
-        "good first issue",
-        "category: ONNX FE"
-      ],
-      "updated_at": "2026-10-24T16:15:00Z",
-      "comments": 24,
-      "assignees": [
-        "Rahuldrabit"
-      ],
-      "score": 77
     },
     {
       "repo": "openvinotoolkit/openvino",
@@ -1047,6 +1001,23 @@
       "score": 74
     },
     {
+      "repo": "openvinotoolkit/openvino",
+      "number": 20872,
+      "title": "[Bug]: inconsistent inference results between OpenVINO and ONNX",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/20872",
+      "labels": [
+        "bug",
+        "good first issue",
+        "category: ONNX FE"
+      ],
+      "updated_at": "2026-10-24T16:15:00Z",
+      "comments": 24,
+      "assignees": [
+        "Rahuldrabit"
+      ],
+      "score": 73
+    },
+    {
       "repo": "OSGeo/grass",
       "number": 2185,
       "title": "[Bug] Some temporal tests can sometimes take more than 4 mins",
@@ -1111,23 +1082,6 @@
       "comments": 22,
       "assignees": [
         "daehyun99"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 28707,
-      "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-24T16:05:12Z",
-      "comments": 18,
-      "assignees": [
-        "skx56"
       ],
       "score": 72
     },
@@ -1230,24 +1184,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 30911,
-      "title": "[Feature Request]: Support for PP-OCRv5's New Model Format (inference.json, inference.pdiparams, inference.yml)",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/30911",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "feature",
-        "category: PDPD FE"
-      ],
-      "updated_at": "2026-10-24T15:49:39Z",
-      "comments": 29,
-      "assignees": [
-        "VaishnaviOnPC"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 33116,
       "title": "[Good First Issue]: Improve logging for OpenVINO torch.compile feature",
       "url": "https://github.com/openvinotoolkit/openvino/issues/33116",
@@ -1259,22 +1195,6 @@
       "comments": 35,
       "assignees": [
         "andersendsa"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 33831,
-      "title": "[Good First Issue]:",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/33831",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-24T13:11:06Z",
-      "comments": 22,
-      "assignees": [
-        "corepacket"
       ],
       "score": 72
     },
@@ -1419,6 +1339,73 @@
       "comments": 17,
       "assignees": [
         "vsd2027"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 28707,
+      "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
+      "labels": [
+        "good first issue",
+        "category: PyTorch FE",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-24T16:05:12Z",
+      "comments": 18,
+      "assignees": [
+        "skx56"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 29630,
+      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:21:31Z",
+      "comments": 31,
+      "assignees": [
+        "akibjawad"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 30911,
+      "title": "[Feature Request]: Support for PP-OCRv5's New Model Format (inference.json, inference.pdiparams, inference.yml)",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/30911",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "feature",
+        "category: PDPD FE"
+      ],
+      "updated_at": "2026-10-24T15:49:39Z",
+      "comments": 29,
+      "assignees": [
+        "VaishnaviOnPC"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 33831,
+      "title": "[Good First Issue]:",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/33831",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-24T13:11:06Z",
+      "comments": 22,
+      "assignees": [
+        "corepacket"
       ],
       "score": 68
     },
