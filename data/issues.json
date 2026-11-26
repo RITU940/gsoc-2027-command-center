@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:39:20+00:00",
+  "generated_at": "2026-11-26T11:25:08+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -48,8 +48,8 @@
         "Good First Issue",
         "p5.js 2.0+"
       ],
-      "updated_at": "2026-11-11T20:39:34Z",
-      "comments": 8,
+      "updated_at": "2026-11-25T16:37:50Z",
+      "comments": 5,
       "assignees": [],
       "score": 100
     },
@@ -104,8 +104,8 @@
       "labels": [
         "Help Wanted"
       ],
-      "updated_at": "2026-11-13T11:20:46Z",
-      "comments": 9,
+      "updated_at": "2026-11-25T16:37:53Z",
+      "comments": 8,
       "assignees": [],
       "score": 95
     },
@@ -483,6 +483,21 @@
         "skyyash"
       ],
       "score": 84
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 40296,
+      "title": "[CPU] Avoid redundant shape inference in BatchToSpace and SpaceToBatch when attribute inputs are constant",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/40296",
+      "labels": [
+        "good first issue"
+      ],
+      "updated_at": "2026-11-25T16:16:42Z",
+      "comments": 3,
+      "assignees": [
+        "muntasir-396"
+      ],
+      "score": 83
     },
     {
       "repo": "processing/p5.js",
@@ -1127,8 +1142,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-22T19:35:40Z",
-      "comments": 71,
+      "updated_at": "2026-11-25T15:28:28Z",
+      "comments": 73,
       "assignees": [
         "kkm121"
       ],
@@ -1143,8 +1158,8 @@
         "good first issue",
         "no_stale"
       ],
-      "updated_at": "2026-11-10T16:58:13Z",
-      "comments": 42,
+      "updated_at": "2026-11-25T15:21:02Z",
+      "comments": 44,
       "assignees": [
         "ktk-07"
       ],
@@ -1311,23 +1326,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 18347,
-      "title": "Extend Python API with a new `model.reshape()` overload",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/18347",
-      "labels": [
-        "good first issue",
-        "category: Python API",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:29:55Z",
-      "comments": 65,
-      "assignees": [
-        "Jarvis2001"
-      ],
-      "score": 68
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 24996,
       "title": "[Good First Issue]: Extend `PrePostProcessor` module with `Clamp`",
       "url": "https://github.com/openvinotoolkit/openvino/issues/24996",
@@ -1356,22 +1354,6 @@
       "comments": 18,
       "assignees": [
         "skx56"
-      ],
-      "score": 68
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 29630,
-      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
-      "labels": [
-        "good first issue",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-17T14:21:31Z",
-      "comments": 31,
-      "assignees": [
-        "akibjawad"
       ],
       "score": 68
     },
@@ -1618,6 +1600,24 @@
         "Ayaan005-sudo"
       ],
       "score": 63
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 24244,
+      "title": "[Good First Issue]: if operation is incorrectly reporting profiling data in GPU",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/24244",
+      "labels": [
+        "good first issue",
+        "category: GPU",
+        "Stale",
+        "no_stale"
+      ],
+      "updated_at": "2026-11-26T00:23:59Z",
+      "comments": 26,
+      "assignees": [
+        "edwingao28"
+      ],
+      "score": 62
     },
     {
       "repo": "processing/p5.js",
