@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:25:08+00:00",
+  "generated_at": "2026-11-27T11:20:10+00:00",
   "mode": "live-github-search",
   "note": "Scoped GitHub issue search, not an exhaustive search of all repositories. Recheck assignment, discussion, linked PRs and AI policies.",
   "partial": false,
@@ -1066,42 +1066,6 @@
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "number": 22001,
-      "title": "[Good First Issue]: Extend C API interface",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/22001",
-      "labels": [
-        "good first issue",
-        "category: C API",
-        "no_stale"
-      ],
-      "updated_at": "2026-10-27T08:26:51Z",
-      "comments": 40,
-      "assignees": [
-        "praasz",
-        "Hmm-1224"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "number": 23245,
-      "title": "[Good First Issue][TF FE]: Support complex tensors for Slice operations",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23245",
-      "labels": [
-        "good first issue",
-        "category: TF FE",
-        "Stale",
-        "no_stale"
-      ],
-      "updated_at": "2026-11-19T00:24:59Z",
-      "comments": 22,
-      "assignees": [
-        "daehyun99"
-      ],
-      "score": 72
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
       "number": 29325,
       "title": "[Good First Issue]: enable PIR format for PDPD FE",
       "url": "https://github.com/openvinotoolkit/openvino/issues/29325",
@@ -1323,6 +1287,41 @@
       "comments": 0,
       "assignees": [],
       "score": 71
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 18347,
+      "title": "Extend Python API with a new `model.reshape()` overload",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/18347",
+      "labels": [
+        "good first issue",
+        "category: Python API",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-17T14:29:55Z",
+      "comments": 65,
+      "assignees": [
+        "Jarvis2001"
+      ],
+      "score": 68
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "number": 22001,
+      "title": "[Good First Issue]: Extend C API interface",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/22001",
+      "labels": [
+        "good first issue",
+        "category: C API",
+        "no_stale"
+      ],
+      "updated_at": "2026-10-27T08:26:51Z",
+      "comments": 40,
+      "assignees": [
+        "praasz",
+        "Hmm-1224"
+      ],
+      "score": 68
     },
     {
       "repo": "openvinotoolkit/openvino",
